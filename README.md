@@ -144,7 +144,7 @@ http://localhost:8080/setup.php
 - **Docker** : Conteneurisation pour un environnement de développement uniforme.
 
 ---
-
+```
 /gestion_magasin
 │
 ├── /public              # Interface web (CRUD via Bootstrap)
@@ -171,7 +171,7 @@ http://localhost:8080/setup.php
 ├── autoload.php         # Chargement automatique des classes (PSR-4)
 ├── setup.php            # Script de configuration de la base de données
 └── README.md            # Documentation du projet
-
+```
 ---
 
 ## Utilisation de l'application
